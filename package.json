@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "secure": false,
-  "proxy": "http://localhost:5000/",
   "dependencies": {
     "axios": "^0.19.2",
     "bcrypt": "^4.0.1",
